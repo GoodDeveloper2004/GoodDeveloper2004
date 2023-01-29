@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/GoodDeveloper2004?logo=github&style
 <b>My GitHub Stats</b>
 <!-- snake animation -->
 
-
+ ![Snake animation](https://github.com/GoodDeveloper2004/GoodDeveloper2004/blob/output/github-contribution-grid-snake.svg)
 
 
   
