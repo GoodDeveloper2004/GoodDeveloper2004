@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/GoodDeveloper2004?logo=github&style
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GoodDeveloper2004&bg_color=000000&color=0891b2&line=84cc16&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>  <a href="http://www.github.com/GoodDeveloper2004"><img src="https://github-readme-stats.vercel.app/api?username=GoodDeveloper2004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GoodDeveloper2004's GitHub stats" width="400" /></a>   <a href="https://github.com/GoodDeveloper2004" align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodDeveloper2004&layout=compact&langs_count=100&theme=radical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="400" /></a>
 
 
-<a href="http://www.github.com/GoodDeveloper2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodDeveloper2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GoodDeveloper2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodDeveloper2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="center"/></a>
 
 ### Imgs
 
