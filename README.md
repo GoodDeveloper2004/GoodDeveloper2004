@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/GoodDeveloper2004?logo=github&style
   <a href="https://github.com/GoodDeveloper2004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodDeveloper2004&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>              
   
   
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a>
+  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&title_color=0891b2&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <a href="http://www.github.com/GoodDeveloper2004" alt="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodDeveloper2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
