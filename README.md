@@ -5,7 +5,6 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [gooddeveloper2004@gmail.com](mailto:gooddeveloper2004@gmail.com)
 * 🧠  I'm learning JavaScript
 
 <a href="https://www.github.com/GoodDeveloper2004" target="_blank" rel="noreferrer"><img
