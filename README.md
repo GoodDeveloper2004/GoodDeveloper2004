@@ -7,7 +7,6 @@ src="https://img.shields.io/github/followers/GoodDeveloper2004?logo=github&style
 
 * 🌍  I'm based in Uzbekistan
 * 🧠  I'm learning JavaScript
-* 
 ### Skills
 
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
