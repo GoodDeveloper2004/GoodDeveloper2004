@@ -39,6 +39,11 @@ src="https://img.shields.io/github/followers/GoodDeveloper2004?logo=github&style
 <a href="http://www.github.com/gooddeveloper2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gooddeveloper2004&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
+
+<!-- Yangi qo'shildi -->
+
+<a href="https://github.com/gooddeveloper2004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodDeveloper2004&langs_count=8&count_private=true&title_color=0891b2&layout=compact&theme=react&hide_border=true&bg_color=000000" width="400" height="175" alt="Top Languages" /></a>
+
 ### Imgs
 
 <p align="center">
