@@ -30,12 +30,14 @@ src="https://img.shields.io/github/followers/m-adakhamjonov?logo=github&style=fo
 
  ![Snake animation](https://github.com/GoodDeveloper2004/GoodDeveloper2004/blob/output/github-contribution-grid-snake.svg)
 
+ <a><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-adakhamjonov&bg_color=000000&color=0891b2&line=84cc16&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
  -->
 
 
 
 <p align="center">
-<a><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m-adakhamjonov&bg_color=000000&color=0891b2&line=84cc16&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <a href="http://www.github.com/m-adakhamjonov"><img src="https://github-readme-stats.vercel.app/api?username=m-adakhamjonov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="m-adakhamjonov's GitHub stats" width="400" height="172"/></a> <a href="https://github.com/m-adakhamjonov" align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-adakhamjonov&layout=compact&langs_count=100&theme=radical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="380" height="172"/></a> <a href="http://www.github.com/m-adakhamjonov" alt="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-adakhamjonov&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<a href="http://www.github.com/m-adakhamjonov"><img src="https://github-readme-stats.vercel.app/api?username=m-adakhamjonov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="m-adakhamjonov's GitHub stats" width="400" height="172"/></a> <a href="https://github.com/m-adakhamjonov" align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-adakhamjonov&layout=compact&langs_count=100&theme=radical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="380" height="172"/></a> <a href="http://www.github.com/m-adakhamjonov" alt="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-adakhamjonov&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </p>
 
 ### Imgs
