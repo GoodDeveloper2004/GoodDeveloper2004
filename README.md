@@ -31,7 +31,7 @@ Assalamu alaykum!
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b> -->
 <!-- snake animation -->
 <!--
 
