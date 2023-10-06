@@ -2,7 +2,7 @@ Assalamu alaykum!
 ======================================================================================================================================
 
 <div style="display: flex; align-items: center;">
-  <p style="margin: 0; padding-right: 10px;">Front-End Developer</p>
+  Front-End Developer
   <a href="" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/github/followers/m-adakhamjonov?logo=github&style=for-the-badge&color=84cc16&labelColor=000000"
