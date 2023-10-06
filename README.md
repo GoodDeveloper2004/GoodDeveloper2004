@@ -1,8 +1,8 @@
 Assalamu alaykum![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-<p>Front-End Developer 
-<a href="" target="_blank" rel="noreferrer"><img
+<p>Front-End Developer <a href="" target="_blank" rel="noreferrer"> 
+<img
 src="https://img.shields.io/github/followers/m-adakhamjonov?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a></p>
 -------------------
 
