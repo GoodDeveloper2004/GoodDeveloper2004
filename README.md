@@ -5,7 +5,7 @@ Assalamu alaykum!
   <p style="margin: 0; padding-right: 10px;">Front-End Developer</p>
   <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/github/followers/m-adakhamjonov?logo=github&style=for-the-badge&color=84cc16&labelColor=000000"
+      src="https://img.shields.io/github/followers/abdulloh-webdev?logo=github&style=for-the-badge&color=84cc16&labelColor=000000"
       alt="GitHub Followers"
     />
   </a>
@@ -27,7 +27,7 @@ Assalamu alaykum!
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/gooddeveloper_2004/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="http://www.instagram.com/abdulloh-webdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -44,7 +44,7 @@ Assalamu alaykum!
 
 
 <p align="center">
-<a href="http://www.github.com/m-adakhamjonov"><img src="https://github-readme-stats.vercel.app/api?username=m-adakhamjonov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="m-adakhamjonov's GitHub stats" width="400" height="172"/></a> <a href="https://github.com/m-adakhamjonov" align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-adakhamjonov&layout=compact&langs_count=100&theme=radical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="380" height="172"/></a> <a href="http://www.github.com/m-adakhamjonov" alt="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-adakhamjonov&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<a href="http://www.github.com/abdulloh-webdev"><img src="https://github-readme-stats.vercel.app/api?username=abdulloh-webdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="abdulloh-webdev's GitHub stats" width="400" height="172"/></a> <a href="https://github.com/abdulloh-webdev" align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulloh-webdev&layout=compact&langs_count=100&theme=radical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="380" height="172"/></a> <a href="http://www.github.com/abdulloh-webdev" alt="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulloh-webdev&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </p>
 
 ### Imgs
